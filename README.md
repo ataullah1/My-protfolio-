@@ -1,3 +1,3 @@
-# 25-042022-My-protfolio-
+# My-protfolio-
 # Ataullah
-# Live server link:https://ataullah1.github.io/25-042022-My-protfolio-/
+# Live server link:https://ataullah1.github.io/My-protfolio-/
